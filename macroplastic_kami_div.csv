@@ -1,0 +1,16 @@
+﻿site_id,treatment,pre_deployment_g,post_deployment_g,shannon_div,richness,Aeshnidae,Chironomidae,Elmidae,Physidae,Hydropsychidae,Philopotamidae,Tricoptera,Corydalidae,Heptageniidae,Calopterygidae,Gomphidae,Oligachaeta,Baetidae,Planorbidae,Sphaeriidae,Corduliidae
+ZL_A,ziplock,30,31.2,0.98,4,1,8,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+ZL_B,ziplock,30,29.88,0.4101163,2,0,12,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+ZL_C,ziplock,30,30.41,0.2711894,2,0,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CP_A,compostable,30,26.57,0.2337917,2,2,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CP_B,compostable,30,26.96,0.659872,4,0,14,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+CP_C,compostable,30,28.33,0.9217046,8,3,43,1,2,0,3,0,1,1,1,0,0,0,0,0,0
+BTB_A,trashbag,30,30.51,1.118542,5,0,15,0,1,0,7,0,2,0,1,0,0,0,0,0,0
+BTB_B,trashbag,30,31.79,0.6683306,4,0,42,0,2,0,8,0,1,0,0,0,0,0,0,0,0
+BTB_C,trashbag,30,31.58,0.8878311,6,0,38,0,0,0,13,0,1,1,1,1,0,0,0,0,0
+SB_A,shoppingbag,30,49.23,0.6931472,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+SB_B,shoppingbag,30,41.53,1.1763301,6,1,27,0,2,6,7,0,0,1,0,0,0,0,0,0,0
+SB_C,shoppingbag,30,38.45,1.2925749,6,0,23,0,1,6,7,0,0,2,0,0,2,0,0,0,0
+MP_A,mixedplastic,30,29.68,1.7494876,9,1,12,1,9,0,2,0,5,0,0,0,1,1,2,0,0
+MP_B,mixedplastic,30,31.58,1.4350505,8,1,17,0,5,0,1,0,1,0,0,0,0,2,1,2,0
+MP_C,mixedplastic,30,33.21,1.2446446,8,0,15,0,0,0,1,0,1,1,0,0,0,1,1,1,1
